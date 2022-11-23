@@ -1,1 +1,1 @@
-# LettCode
+# LeetCode
